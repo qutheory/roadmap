@@ -10,5 +10,5 @@ Versions are created as [Milestones](https://github.com/vapor-cloud/roadmap/mile
 
 If you want to add an entry, create an [Issue](https://github.com/vapor-cloud/roadmap/issues) and add as much information as possible.
 
-Add a `kind` and a `version` label fitting to the entry.
+Add a `kind/*` and a `version/*` label fitting to the entry (and `area/*` if possible).
 
